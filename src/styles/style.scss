@@ -1,0 +1,16 @@
+@import '../components/Notes/notes.scss';
+@import './color.scss';
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Marck Script';
+    font-size: 20px;
+    background: $dark_black;
+}
